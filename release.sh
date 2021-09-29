@@ -1,0 +1,1 @@
+fyne package -icon icon.png --name base64converter
